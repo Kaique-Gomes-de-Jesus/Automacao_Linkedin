@@ -65,7 +65,7 @@ O projeto visa facilitar a vida de quem busca oportunidades ou realiza análises
 ## 🧩 Estrutura do Projeto
 
 ```text
-├── AutomaçãoLinkedin_Aula2.ipynb     # Notebook principal com todo o código
+├── Automação_Linkedin.ipynb     # Notebook principal com todo o código
 ├── vagas.db                          # Banco SQLite gerado (opcional)
 ├── Vagas_Pesquisadas.csv             # Arquivo CSV com os resultados (opcional)
 └── README.md                         # Este arquivo
